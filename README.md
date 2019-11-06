@@ -16,3 +16,6 @@ My APK for the second question is called Question2.apk. In this application, I b
 <p align="center">
   <img src=https://github.com/jkwourms/Security_HW3_Part2/blob/master/photos/text.JPG>
 </p>
+
+## MalDroid Application
+The APK for the third question is called Question3.apk. This application uses the package name of the previous phone application to call it from a separate application. This works because we can create an Intent that extracts the package name, which we can then launch in our own application. 
